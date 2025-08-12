@@ -4,6 +4,8 @@
 Project Title:
 Heart Disease Analysis Dashboard – Power BI Project
 ________________________________________
+https://github.com/hassaanvt/Heart_Disease_Analysis-Dashboard/issues/1#issue-3315150547
+
 Project Overview:
 This dashboard provides an in-depth analysis of heart disease patient data, focusing on survival rates, average survival age, and factors affecting survival such as serum creatinine levels, ejection fraction, and co-morbidities. It allows healthcare professionals to identify patterns across different age groups and understand the impact of various health conditions on survival outcomes.
 ________________________________________
