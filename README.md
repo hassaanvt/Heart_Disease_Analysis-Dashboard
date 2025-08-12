@@ -8,9 +8,9 @@ Project Overview:
 This dashboard provides an in-depth analysis of heart disease patient data, focusing on survival rates, average survival age, and factors affecting survival such as serum creatinine levels, ejection fraction, and co-morbidities. It allows healthcare professionals to identify patterns across different age groups and understand the impact of various health conditions on survival outcomes.
 ________________________________________
 Tools & Technology:
-•	Tool: Microsoft Power BI
-•	Data Source: Heart disease patient dataset
-•	Techniques: Data visualization, DAX calculations, interactive filtering, comparative analysis
+1. Tool: Microsoft Power BI
+2. Data Source: Heart disease patient dataset
+3. Techniques: Data visualization, DAX calculations, interactive filtering, comparative analysis
 ________________________________________
 Data Description:
 The dataset includes patient demographic details (age, gender), survival status, survival duration, clinical measurements (serum creatinine, ejection fraction), and health conditions (smoking, high blood pressure, anaemia, diabetes).
@@ -33,9 +33,9 @@ o	Ribbon chart: Impact of smoking, high blood pressure, anaemia, diabetes.
 5.	Apply gender filter for interactive analysis.
 ________________________________________
 Key Insights:
-•	The overall survival rate is 68.04% with an average survival age of 58.83 years.
-•	The 61–70 age group has the highest number of survival cases but shows a decline in ejection fraction and a higher serum creatinine level compared to younger groups.
-•	Survival rates gradually decline with age, with the lowest rate in the 71+ group.
-•	Smoking, high blood pressure, anaemia, and diabetes have a significant combined impact on older age groups.
+1. The overall survival rate is 68.04% with an average survival age of 58.83 years.
+2. The 61–70 age group has the highest number of survival cases but shows a decline in ejection fraction and a higher serum creatinine level compared to younger groups.
+3. Survival rates gradually decline with age, with the lowest rate in the 71+ group.
+4. Smoking, high blood pressure, anaemia, and diabetes have a significant combined impact on older age groups.
 
 
