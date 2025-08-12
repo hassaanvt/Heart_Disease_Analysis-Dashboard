@@ -5,7 +5,7 @@ Project Title:
 Heart Disease Analysis Dashboard – Power BI Project
 ________________________________________
 Dashboard 
-https://github.com/hassaanvt/Heart_Disease_Analysis-Dashboard/issues/2#issue-3315222474
+https://github.com/hassaanvt/Heart_Disease_Analysis-Dashboard/issues/3#issue-3315237870
 
 
 
